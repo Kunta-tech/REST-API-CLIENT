@@ -1,5 +1,19 @@
 # REST API CLIENT
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : SAUGATA KUNDU
+
+*INTERN ID* : CT04DZ671
+
+*DOMAIN* : JAVA PROGRAMMING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
+## 📄 Description
+
 This project is a Spring Boot application that fetches weather data from the [wttr.in](https://wttr.in) API based on user-provided locations.
 
 It demonstrates:
@@ -124,5 +138,4 @@ Returns current weather details for Kolkata based on `wttr.in` API.
 
 MIT
 
----
 
