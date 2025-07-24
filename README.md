@@ -49,6 +49,7 @@ src/
 └── test/
     └── java/com/codtech/weatherapi/
         ├── WeatherapiApplicationTests.java
+        ├── WeatherServiceIntegrationTest.java
         └── WeatherControllerTest.java
 
 ````
