@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+---
+
 ## 📄 Description
 
 This project is a Spring Boot application that fetches weather data from the [wttr.in](https://wttr.in) API based on user-provided locations.
