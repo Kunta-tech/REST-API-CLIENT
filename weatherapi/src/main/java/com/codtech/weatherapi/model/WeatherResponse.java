@@ -6,8 +6,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import lombok.Data;
 
-@Data
 @JsonIgnoreProperties(ignoreUnknown = true)
+@Data
 public class WeatherResponse {
 	@JsonProperty("current_condition")
     public List<CurrentCondition> currentCondition;
